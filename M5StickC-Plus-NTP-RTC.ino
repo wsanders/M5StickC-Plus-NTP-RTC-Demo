@@ -1,6 +1,6 @@
 // RTC and NTP time test. Set NTP time in RTC and read back to confirm.
 // DANGER WILL ROBINSON:
-// Check you Ardunio library. In v0.0.8 in the IDE 1.X, there are typos.
+// You may need to fix your Ardunio library. In v0.0.8 in the IDE 1.X, there are typos.
 // Edit (your arduino sketchbook)/libraries/M5StickCPlus/src/RTC.h and RTC.cpp
 // and change occurrences of "GetData" and "SetData" to "GetDate" and "SetDate"
 
